@@ -6,3 +6,7 @@ Midia, la bianca città posta al centro delle terre conosciute, ti accoglie tra 
 Sarai degno di essere ricordato tra gli eroi di questa terra senza tempo?
 
 Benvenuto a Midia, avventuriero. Benvenuto su Tempora Sanguinis.
+
+Visita il [sito ufficiale](https://temporasanguinis.it).
+
+Collegati e gioca dal [Client Web](https://temporasanguinis.it/client).
