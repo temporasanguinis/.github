@@ -7,6 +7,4 @@ Sarai degno di essere ricordato tra gli eroi di questa terra senza tempo?
 
 Benvenuto a Midia, avventuriero. Benvenuto su Tempora Sanguinis.
 
-Visita il [sito ufficiale](https://temporasanguinis.it).
-
-Collegati e gioca dal [Client Web](https://temporasanguinis.it/client).
+Visita il [sito ufficiale](https://temporasanguinis.it) oppure collegati e gioca dal [Client Web](https://temporasanguinis.it/client).
